@@ -4,10 +4,8 @@ email:       ''
 description: ''
 baseurl:     ''
 url:         'https://softwarecraftersmanila.github.io/'
-twitter:     ''
-github:      ''
-instagram:   ''
-facebook:    ''
+github:      'https://github.com/softwarecraftersmanila'
+facebook:    'https://www.facebook.com/groups/softwarecraftersmanila'
 
 markdown:  kramdown
 permalink: pretty
