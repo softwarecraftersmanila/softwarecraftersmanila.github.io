@@ -1,0 +1,32 @@
+---
+layout: post
+title: July 2019 Meetup
+tags: [meetup]
+image: '/images/posts/2019-08-01/M10P9434.jpg'
+---
+
+We've just had our first ever Software Crafters Manila meetup! It was held last July 21st. **PageUp People** hosted at Emapta's office in Ortigas CBD, Pasig.
+
+![We're going to have to come up with a better logo soon](/images/posts/2019-08-01/M10P9372.jpg)
+
+After some food, we started at 7:00 pm with a talk by **[Jon Limjap](https://ph.linkedin.com/in/jonlimjap)**. The theme for the night was **Test-Driven Development**, one we'll be touching on for the first few meetups as get our bearings as a group. 
+
+![Jon - TDD Revisited](/images/posts/2019-08-01/M10P9421.jpg)
+
+More than just about writing unit tests themselves, Jon talked about TDD and design. He then went into a demo starting off with 2 tests from the kata we were about to tackle. The kata we worked on for the evening was a variant of the [Minesweeper Kata](http://codingdojo.org/kata/Minesweeper/). You can find the version we used [here](/2019/08/01/kata-minefield).
+
+From there everyone split up, and we ended with 4 groups and 1 to 2 people tackling the problem individually. The rest of the night was split into three 30-minute rounds. During those 30 minutes, groups would try to cover the kata as far as they could manage and end with a quick 5 minute recap of what they've learned during that last round. At the beginning of the next round, everyone was encouraged to delete their code and start again from the beginning, applying the learnings they've just picked up.
+
+![Group 1](/images/posts/2019-08-01/DSC02927.jpg)
+
+![Group 2](/images/posts/2019-08-01/DSC02920.jpg)
+
+![Group 3](/images/posts/2019-08-01/DSC02923.jpg)
+
+![Group 4](/images/posts/2019-08-01/DSC02912.jpg)
+
+We went over the 9:00 pm time we were shooting for so we wrapped up with a little less formal feedback session of what could be improved about the format. The mobbing experience with large groups had mixed reception and just didn't work for some. We might just try with smaller groups or pairing for our next one.
+
+Thanks again to everyone who joined our first meetup! Next meetup will be at the same venue on August 20th. If you're interested in contributing through any means or have suggestions you can reach out through our [Facebook Group](https://www.facebook.com/groups/softwarecraftersmanila/). Sign up for the next meetup through our [Meetup page](https://www.meetup.com/Software-Crafters-Manila/). 
+
+See you there!
